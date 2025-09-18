@@ -16,7 +16,6 @@ Step-by-Step Instructions
 
 Results
 
-License
 
 1. Project Overview
 This project provides a practical, hands-on example of creating an Application-Specific Integrated Circuit (ASIC) from a high-level description in Verilog to a final physical layout file (GDSII). It serves as an educational resource for anyone interested in digital IC design without access to expensive, proprietary EDA software.
